@@ -7,7 +7,7 @@ gem 'sinatra-activerecord'
 gem 'rake'
 gem 'thin'
 gem 'require_all'
-gem 'sqlite3', '1.3.6' # '1.4.0' 
+gem 'sqlite3', '~> 1.3.6' # '1.4.0' 
 
 
 group :development do
